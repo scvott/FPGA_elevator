@@ -5,3 +5,6 @@ very_simple_elevator_verilog(three floors)
 2.cyn70(紅外線感測器)*4  
 3.電流放大器*1  
 4.步進馬達*1    
+
+## Demo Video  
+https://youtu.be/FDwQcv2BAwc

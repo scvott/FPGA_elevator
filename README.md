@@ -1,5 +1,7 @@
 # FPGA_Elevator
-very_simple_elevator_verilog  
-## Device
-使用DE0-CV開發版、cyn70(紅外線感測器)*4、電流放大器*1、步進馬達*1  
-三層樓簡易式電梯  
+very_simple_elevator_verilog(three floors)  
+## Device  
+1.DE0-CV discover board  
+2.cyn70(紅外線感測器)*4  
+3.電流放大器*1  
+4.步進馬達*1    
